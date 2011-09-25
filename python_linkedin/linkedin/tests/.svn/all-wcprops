@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/30/trunk/linkedin/tests
+END
+linkedin_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/trunk/linkedin/tests/linkedin_test.py
+END
+linkedin_access_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/30/trunk/linkedin/tests/linkedin_access_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30/trunk/linkedin/tests/__init__.py
+END
+linkedin_request_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/linkedin/tests/linkedin_request_test.py
+END

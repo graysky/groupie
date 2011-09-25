@@ -1,10 +1,15 @@
 # Django settings for groupie project.
 import os
+import sys
+
+# sys.path.append('/www/python/')
+
+DIRNAME = os.path.abspath(os.path.dirname(__file__))
+
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
-DIRNAME = os.path.abspath(os.path.dirname(__file__))
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),

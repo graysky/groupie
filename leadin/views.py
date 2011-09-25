@@ -9,4 +9,3 @@ def home(request):
     data = dict()
     return render_to_response("index.html", data, context)
     
-
